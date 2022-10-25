@@ -76,12 +76,15 @@
       "titleSuffix": "Microsoft Advertising"
     },
     "fileMetadata": {
+      "ms.subservice": {
+        "bulk-service/**.yml": "bulk-api"
+      },
       "ms.service": 
       { 
         "guides/**.yml": "bing-ads",
         "ad-insight-service/**.yml": "bing-ads-ad-insight-service",
         "customer-billing-service/**.yml": "bing-ads-customer-billing-service",
-        "bulk-service/**.yml": "bing-ads-bulk-service",
+        "bulk-service/**.yml": "bing-ads",
         "campaign-management-service/**.yml": "bing-ads-campaign-management-service",
         "customer-management-service/**.yml": "bing-ads-customer-management-service",
         "reporting-service/**.yml": "bing-ads-reporting-service",
