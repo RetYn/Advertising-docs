@@ -1,10 +1,11 @@
 ---
 title: Video Data Object - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines the Video Data Object.
+ms.subservice: campaign-management-api
 ---
 # Video Data Object - Campaign Management
 Defines the Video Data Object.

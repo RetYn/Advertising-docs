@@ -1,10 +1,11 @@
 ---
 title: AdExtensionsTypeFilter Value Set - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines the possible ad extension types.
+ms.subservice: campaign-management-api
 ---
 # AdExtensionsTypeFilter Value Set - Campaign Management
 Defines the possible ad extension types.

@@ -1,10 +1,11 @@
 ---
 title: IdCollection Data Object - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines an object that contains a list of entity identifiers.
+ms.subservice: campaign-management-api
 ---
 # IdCollection Data Object - Campaign Management
 Defines an object that contains a list of entity identifiers.

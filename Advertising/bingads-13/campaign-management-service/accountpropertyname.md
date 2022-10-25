@@ -1,10 +1,11 @@
 ---
 title: AccountPropertyName Value Set - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines the name of account level properties.
+ms.subservice: campaign-management-api
 ---
 # AccountPropertyName Value Set - Campaign Management
 Defines the name of account level properties.

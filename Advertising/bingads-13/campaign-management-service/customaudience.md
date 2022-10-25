@@ -1,10 +1,11 @@
 ---
 title: CustomAudience Data Object - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines a custom audience.
+ms.subservice: campaign-management-api
 ---
 # CustomAudience Data Object - Campaign Management
 Defines a custom audience. 

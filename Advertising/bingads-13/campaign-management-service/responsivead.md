@@ -1,10 +1,11 @@
 ---
 title: ResponsiveAd Data Object - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: A responsive ad format for audience ads and multimedia ads.
+ms.subservice: campaign-management-api
 ---
 # ResponsiveAd Data Object - Campaign Management
 A responsive ad format for audience ads and multimedia ads.

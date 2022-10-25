@@ -1,10 +1,11 @@
 ---
 title: ShoppingSetting Data Object - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines the campaign level settings to leverage your Microsoft Merchant Center store.
+ms.subservice: campaign-management-api
 ---
 # ShoppingSetting Data Object - Campaign Management
 Defines the campaign level settings to leverage your Microsoft Merchant Center store.
