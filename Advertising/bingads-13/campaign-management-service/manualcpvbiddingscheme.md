@@ -1,10 +1,11 @@
 ---
 title: ManualCpvBiddingScheme Data Object - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines an object that represents the manual CPV bid strategy type.
+ms.subservice: campaign-management-api
 ---
 # ManualCpvBiddingScheme Data Object - Campaign Management
 Defines an object that represents the manual CPV bid strategy type.

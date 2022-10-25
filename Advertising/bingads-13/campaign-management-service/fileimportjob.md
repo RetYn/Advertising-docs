@@ -1,10 +1,11 @@
 ---
 title: FileImportJob Data Object - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: FileImportJob is reserved for future use.
+ms.subservice: campaign-management-api
 ---
 # FileImportJob Data Object - Campaign Management
 FileImportJob is reserved for future use. 

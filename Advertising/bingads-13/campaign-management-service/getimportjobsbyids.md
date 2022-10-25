@@ -1,6 +1,6 @@
 ---
 title: GetImportJobsByIds Service Operation - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
@@ -10,6 +10,7 @@ dev_langs:
   - java
   - php
   - python
+ms.subservice: campaign-management-api
 ---
 # GetImportJobsByIds Service Operation - Campaign Management
 Gets import jobs by their type and identifiers.

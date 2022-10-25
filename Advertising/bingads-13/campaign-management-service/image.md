@@ -1,10 +1,11 @@
 ---
 title: Image Data Object - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines an image that can be added to an account's media library.
+ms.subservice: campaign-management-api
 ---
 # Image Data Object - Campaign Management
 Defines an image that can be added to an account's media library.

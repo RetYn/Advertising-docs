@@ -1,6 +1,6 @@
 ---
 title: GetCampaignIdsByBudgetIds Service Operation - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
@@ -10,6 +10,7 @@ dev_langs:
   - java
   - php
   - python
+ms.subservice: campaign-management-api
 ---
 # GetCampaignIdsByBudgetIds Service Operation - Campaign Management
 Gets the campaign identifiers that share each specified budget.
