@@ -1,10 +1,11 @@
 ---
 title: AuctionInsightKpi Data Object - Ad Insight
-ms.service: bing-ads-ad-insight-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines an auction insight key performance indicator.
+ms.subservice: ad-insight-api
 ---
 # AuctionInsightKpi Data Object - Ad Insight
 Defines an auction insight key performance indicator.
