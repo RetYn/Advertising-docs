@@ -1,12 +1,13 @@
 ---
 title: "Label Record - Bulk"
-ms.service: bing-ads-bulk-service
+ms.service: bing-ads
 ms.topic: "article"
 author: eric-urban
 ms.author: eur
 description: Describes the Label fields in a Bulk file.
 dev_langs:
   - csharp
+ms.subservice: bulk-api
 ---
 # Label Record - Bulk
 Defines a label that can be uploaded and downloaded in a bulk file.

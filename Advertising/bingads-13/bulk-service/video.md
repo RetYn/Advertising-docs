@@ -1,12 +1,13 @@
 ---
 title: "Video Record - Bulk"
-ms.service: bing-ads-bulk-service
+ms.service: bing-ads
 ms.topic: "article"
 author: eric-urban
 ms.author: eur
 description: Describes the Video fields in a Bulk file.
 dev_langs:
   - csharp
+ms.subservice: bulk-api
 ---
 # Video Record - Bulk
 Defines a video that can be downloaded and uploaded in a bulk file.

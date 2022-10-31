@@ -1,10 +1,11 @@
 ---
 title: ResponseMode Value Set - Bulk
-ms.service: bing-ads-bulk-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines elements to specify whether the bulk service should return upload errors with their corresponding data.
+ms.subservice: bulk-api
 ---
 # ResponseMode Value Set - Bulk
 Defines elements to specify whether the bulk service should return upload errors with their corresponding data.

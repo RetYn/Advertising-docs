@@ -1,12 +1,13 @@
 ---
 title: "Custom Audience Record - Bulk"
-ms.service: bing-ads-bulk-service
+ms.service: bing-ads
 ms.topic: "article"
 author: eric-urban
 ms.author: eur
 description: Describes the Custom Audience fields in a Bulk file.
 dev_langs:
   - csharp
+ms.subservice: bulk-api
 ---
 # Custom Audience Record - Bulk
 Defines a custom audience that can be downloaded and uploaded in a bulk file. 
