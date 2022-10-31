@@ -1,10 +1,11 @@
 ---
 title: ProductDimensionPerformanceReportColumn Value Set - Reporting
-ms.service: bing-ads-reporting-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines the attributes and performance statistics columns that you can include in the ProductDimensionPerformanceReportRequest.
+ms.subservice: reporting-api
 ---
 # ProductDimensionPerformanceReportColumn Value Set - Reporting
 Defines the attributes and performance statistics columns that you can include in the [ProductDimensionPerformanceReportRequest](productdimensionperformancereportrequest.md).
