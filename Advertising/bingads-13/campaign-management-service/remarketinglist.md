@@ -1,10 +1,11 @@
 ---
 title: RemarketingList Data Object - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines a remarketing list.
+ms.subservice: campaign-management-api
 ---
 # RemarketingList Data Object - Campaign Management
 Defines a remarketing list.

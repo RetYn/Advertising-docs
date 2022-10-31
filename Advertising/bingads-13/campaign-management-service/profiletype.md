@@ -1,10 +1,11 @@
 ---
 title: ProfileType Value Set - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines the possible types of profile criterions.
+ms.subservice: campaign-management-api
 ---
 # ProfileType Value Set - Campaign Management
 Defines the possible types of profile criterions.
