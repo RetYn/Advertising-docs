@@ -1,10 +1,11 @@
 ---
 title: ImportEntityStatistics Data Object - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: The statistical import results for an entity type.
+ms.subservice: campaign-management-api
 ---
 # ImportEntityStatistics Data Object - Campaign Management
 The statistical import results for an entity type.

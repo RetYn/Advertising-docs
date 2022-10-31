@@ -1,10 +1,11 @@
 ---
 title: StringOperator Value Set - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines the operators that can be applied to remarketing list rule item string values.
+ms.subservice: campaign-management-api
 ---
 # StringOperator Value Set - Campaign Management
 Defines the operators that can be applied to remarketing list rule item string values.

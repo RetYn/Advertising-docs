@@ -1,6 +1,6 @@
 ---
 title: GetLabelAssociationsByEntityIds Service Operation - Campaign Management
-ms.service: bing-ads-campaign-management-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
@@ -10,6 +10,7 @@ dev_langs:
   - java
   - php
   - python
+ms.subservice: campaign-management-api
 ---
 # GetLabelAssociationsByEntityIds Service Operation - Campaign Management
 Gets label associations by entity identifiers.
