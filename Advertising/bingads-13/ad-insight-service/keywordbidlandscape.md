@@ -1,10 +1,11 @@
 ---
 title: KeywordBidLandscape Data Object - Ad Insight
-ms.service: bing-ads-ad-insight-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines an object that contains a list of estimated clicks, cost, and impressions from 1 to 7 days for the keyword identifier given the suggested bid.
+ms.subservice: ad-insight-api
 ---
 # KeywordBidLandscape Data Object - Ad Insight
 Defines an object that contains a list of estimated clicks, cost, and impressions from 1 to 7 days for the keyword identifier given the suggested bid.
