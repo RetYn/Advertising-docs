@@ -1,10 +1,11 @@
 ---
 title: AdApiError Data Object - Reporting
-ms.service: bing-ads-reporting-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines a Reporting Ad API error object that contains the details that explain why the service operation failed.
+ms.subservice: reporting-api
 ---
 # AdApiError Data Object - Reporting
 Defines a Reporting Ad API error object that contains the details that explain why the service operation failed.
