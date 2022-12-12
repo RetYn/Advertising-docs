@@ -1,6 +1,6 @@
 ---
 title: SearchCoupons Service Operation - Customer Billing
-ms.service: bing-ads-customer-billing-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
@@ -10,6 +10,7 @@ dev_langs:
   - java
   - php
   - python
+  ms.subservice: customer-billing-api
 ---
 # SearchCoupons Service Operation - Customer Billing
 Defines the SearchCoupons Service Operation.
