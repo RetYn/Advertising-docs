@@ -1,10 +1,11 @@
 ---
 title: OrderByField Value Set - Customer Billing
-ms.service: bing-ads-customer-billing-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines the field order of entities returned using one of the search operations, for example SearchCoupons or SearchInsertionOrders.
+ms.subservice: customer-billing-api
 ---
 # OrderByField Value Set - Customer Billing
 Defines the field order of entities returned using one of the search operations, for example [SearchCoupons](searchcoupons.md) or [SearchInsertionOrders](searchinsertionorders.md).

@@ -1,10 +1,11 @@
 ---
 title: InsertionOrderStatus Value Set - Customer Billing
-ms.service: bing-ads-customer-billing-service
+ms.service: bing-ads
 ms.topic: article
 author: eric-urban
 ms.author: eur
 description: Defines the possible status values of an InsertionOrder.
+ms.subservice: customer-billing-api
 ---
 # InsertionOrderStatus Value Set - Customer Billing
 Defines the possible status values of an [InsertionOrder](insertionorder.md).
